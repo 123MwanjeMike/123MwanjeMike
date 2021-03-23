@@ -1,4 +1,12 @@
-### Hi there 👋
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+
+Mike here,
+Here are a few fun facts ⚡
+
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123MwanjeMike&hide=jupyter%20notebook&layout=compact)
 
 <!--
 **123MwanjeMike/123MwanjeMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
