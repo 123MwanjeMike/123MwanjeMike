@@ -7,9 +7,11 @@ A few fun facts ⚡
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=123MwanjeMike&v=2&layout=compact)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123MwanjeMike&hide=jupyter%20notebook&layout=compact)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=123MwanjeMike&v=2&layout=compact)
+- 📫 How to reach me: mwanjemike767@gmail.com
 
 <!--
 **123MwanjeMike/123MwanjeMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
