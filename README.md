@@ -1,9 +1,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-Mike here!
-
-A few fun facts ⚡
+Mike here! A few fun facts ⚡
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
