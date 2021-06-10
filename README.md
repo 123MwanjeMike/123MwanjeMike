@@ -7,8 +7,6 @@ Mike here! A few fun facts ⚡
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=123MwanjeMike&v=2&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123MwanjeMike&hide=jupyter%20notebook&layout=compact)
-
 - 👯 I’m looking to collaborate on new adventures
 
 <!--
