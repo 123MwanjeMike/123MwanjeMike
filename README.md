@@ -5,7 +5,7 @@ Mike here! A few fun facts ⚡
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
-- 👯 I’m looking to collaborate on new adventures
+- 👯 Let's talk open source
 
 <!--
 **123MwanjeMike/123MwanjeMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
