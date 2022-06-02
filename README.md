@@ -3,10 +3,10 @@
 
 Welcome to my world! ⚡
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
+- 👯 Let's talk open source.
+- 🔭 I’m currently focusing on DevOps.
 
-- 👯 Let's talk open source
-- 🌱 I’m currently learning Nest.js
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
 #### Down the Rabbit-Hole
 
