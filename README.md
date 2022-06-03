@@ -30,14 +30,14 @@ Check out my profiles below
 
 #### Their Evidence :memo:
 
-Some of my the certifications.
+Some of my certifications
 
 <span align="left">
-  <a href="https://www.hackerrank.com/certificates/caf759600d1d">
-    <img src="https://img.shields.io/badge/-React-2ec866?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/certificates/caf759600d1d" />
-  </a>
   <a href="https://university.mongodb.com/course_completion/7a3cecbb-e2b3-4c7e-8b34-1769fd4938cd">
     <img src="https://img.shields.io/badge/-MongoDB_for_Javascript_Developers-01684d?style=flat-square&logo=MongoDB&logoColor=white&link=https://university.mongodb.com/course_completion/7a3cecbb-e2b3-4c7e-8b34-1769fd4938cd" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/caf759600d1d">
+    <img src="https://img.shields.io/badge/-React-2ec866?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/certificates/caf759600d1d" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/X2VX3LD6LGET">
     <img src="https://img.shields.io/badge/-Basics_of_Web_Development_&_Coding-2a73cc?style=flat-square&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/specialization/certificate/X2VX3LD6LGET" />
