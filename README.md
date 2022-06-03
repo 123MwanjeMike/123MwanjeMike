@@ -14,9 +14,6 @@ Welcome to my world! ⚡
   <a href="https://www.linkedin.com/in/mike-mwanje-470b15155/">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-mwanje-470b15155/" />
   </a>
-  <a href="https://www.hackerrank.com/mwanjemike/">
-    <img src="https://img.shields.io/badge/-HackerRank-1ba94c?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/mwanjemike" />
-  </a>
   <a href="https://app.pluralsight.com/profile/mike-mwanje">
     <img src="https://img.shields.io/badge/-Pluralsight-8a1a45?style=flat-square&logo=Pluralsight&logoColor=white&link=https://app.pluralsight.com/profile/mike-mwanje" />
   </a>
