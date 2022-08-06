@@ -20,8 +20,8 @@ Check out my profiles below
   <a href="https://app.pluralsight.com/profile/mike-mwanje">
     <img src="https://img.shields.io/badge/-Pluralsight-8a1a45?style=flat-square&logo=Pluralsight&logoColor=white&link=https://app.pluralsight.com/profile/mike-mwanje" />
   </a>
-  <a href="https://dev.to/mwanjemike">
-    <img src="https://img.shields.io/badge/DEV-black" />
+  <a href="https://blog.mikemwanje.dev/">
+    <img src="https://img.shields.io/badge/-Blog-2962ff?style=flat-square&logo=Hashnode&logoColor=white&link=https://blog.mwanjemike.dev/" />
   </a>
   <a href="https://github.com/123MwanjeMike/?tab=follow">
     <img src="https://img.shields.io/github/followers/123MwanjeMike?label=Follow&style=social" />
