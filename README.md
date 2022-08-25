@@ -28,6 +28,7 @@ Check out my profiles below
   </a>
 </span>
 
+<!--
 #### Their Evidence :memo:
 
 Some of my certifications
