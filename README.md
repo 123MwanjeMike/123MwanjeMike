@@ -5,7 +5,7 @@
 
 #### All in the golden afternoon :sun_with_face:
 - 👯 Let's talk open source.
-- 🔭 I’m currently focusing on DevOps.
+- 🔭 Currently focusing on DevOps.
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
