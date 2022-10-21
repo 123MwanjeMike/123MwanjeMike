@@ -4,8 +4,9 @@
 ### Hi there :raising_hand_man:, welcome to my world! 🥳
 
 #### All in the golden afternoon :sun_with_face:
-- 👯 Let's talk open source.
-- 🔭 Currently focusing on DevOps.
+- 👯 Let's talk Open-source.
+- 🔭 Focusing on DevOps & Cloud Computing.
+- 😃 Blockchain/Web3 are great conversation starters.
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
