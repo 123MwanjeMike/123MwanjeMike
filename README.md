@@ -5,8 +5,8 @@
 
 #### All in the golden afternoon :sun_with_face:
 - 👯 Let's talk Open-source.
-- 🔭 Currently focusing on DevOps and Cloud Computing.
-- 😃 Blockchain and Web3 are great conversation starters.
+- 🔭 Currently focusing on DevOps & Cloud Computing.
+- 😃 Blockchain is also a good conversation starter.
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
