@@ -8,7 +8,7 @@
 - 🔭 Currently focusing on DevOps & Cloud Computing.
 - 😃 Blockchain is also a good conversation starter.
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
+![Mike's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
 #### Down the Rabbit-Hole :rabbit2:
 
