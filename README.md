@@ -6,28 +6,10 @@
 #### All in the golden afternoon :sun_with_face:
 - 👯 Let's talk Open-source.
 - 🔭 Currently focusing on DevOps & Cloud Computing.
-- 😃 Blockchain is also a good conversation starter.
 
 ![Mike's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
 #### Down the Rabbit-Hole :rabbit2:
-
-Check out my profiles below
-
-<span align="left">
-  <a href="https://www.linkedin.com/in/mike-mwanje-470b15155/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-mwanje-470b15155/" />
-  </a>
-  <a href="https://app.pluralsight.com/profile/mike-mwanje">
-    <img src="https://img.shields.io/badge/-Pluralsight-8a1a45?style=flat-square&logo=Pluralsight&logoColor=white&link=https://app.pluralsight.com/profile/mike-mwanje" />
-  </a>
-  <a href="https://blog.mikemwanje.dev/">
-    <img src="https://img.shields.io/badge/-Blog-2962ff?style=flat-square&logo=Hashnode&logoColor=white&link=https://blog.mwanjemike.dev/" />
-  </a>
-  <a href="https://github.com/123MwanjeMike/?tab=follow">
-    <img src="https://img.shields.io/github/followers/123MwanjeMike?label=Follow&style=social" />
-  </a>
-</span>
 
 [![@mikemwanje's Holopin board](https://holopin.me/mikemwanje)](https://holopin.io/@mikemwanje)
 
