@@ -6,6 +6,7 @@
 #### All in the golden afternoon :sun_with_face:
 - 👯 Let's talk Open-source.
 - 🔭 Currently focusing on DevOps & Cloud Computing.
+- 🌱 Graduate student at [CMU](https://www.africa.engineering.cmu.edu/) .
 
 ![Mike's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=123MwanjeMike&count_private=true&show_icons=true)
 
